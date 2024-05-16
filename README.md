@@ -237,6 +237,8 @@ Note:
 <li>You can assume that <code>index</code> will be within bounds.
 
 <li><code>deleteIndex</code> makes changes in <code>data</code>.
+  
+<li>Note: Make sure to remove from the ArrayList using the index and not the element as this could accidentally delete the wrong element if there are duplicates in the list.
 </li>
 </ul>
    </td>
