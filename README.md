@@ -2,7 +2,7 @@
 # CSE 12 Spring 2024 PA7 - Heaps and Priority Queue
 
 
-## Due date: Thursday, May 22nd @ 11:59 PM PST
+## Due date: Thursday, May 23rd @ 11:59 PM PST
 
 There is an FAQ post on Piazza. Please read that post first if you have any questions.
 
